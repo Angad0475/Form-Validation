@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Form-Validation/static/css/main.3eeebdf3.css",
+    "main.js": "/Form-Validation/static/js/main.fc10cf1b.js",
+    "static/media/ilia-bronskiy-8-Foex-jjfQ-unsplash.jpg": "/Form-Validation/static/media/ilia-bronskiy-8-Foex-jjfQ-unsplash.b7608c304f6e1c2d1670.jpg",
+    "index.html": "/Form-Validation/index.html",
+    "main.3eeebdf3.css.map": "/Form-Validation/static/css/main.3eeebdf3.css.map",
+    "main.fc10cf1b.js.map": "/Form-Validation/static/js/main.fc10cf1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eeebdf3.css",
+    "static/js/main.fc10cf1b.js"
+  ]
+}
